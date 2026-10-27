@@ -1,3 +1,11 @@
+HTML
+<p align="center">
+<img src="banner2.jpeg" alt="TN365-DDE Banner" width="100%">
+</p>
+ 
+# TN365-DDE
+ 
+French Deepin Desktop Distribution based on Ubuntu LTS
 TN365-DDE is a Linux distribution project based on Ubuntu LTS and the Deepin Desktop Environment (DDE).
 Vision
 
