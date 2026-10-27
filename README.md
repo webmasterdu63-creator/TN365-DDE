@@ -1,5 +1,3 @@
-TN365-DDE
-
 TN365-DDE is a Linux distribution project based on Ubuntu LTS and the Deepin Desktop Environment (DDE).
 Vision
 
