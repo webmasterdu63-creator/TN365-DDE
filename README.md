@@ -1,4 +1,3 @@
-HTML
 <p align="center">
 <img src="banner2.jpeg" alt="TN365-DDE Banner" width="100%">
 </p>
