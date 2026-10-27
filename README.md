@@ -65,6 +65,14 @@ Base technique
     Deepin Desktop Environment
     Dépôt APT TN365
     Installation Calamares
+Upstream Components
 
+    dde-control-center
+    dde-dock
+    dde-file-manager
+    dde-launchpad
+    dde-session-shell
+
+Maintained through official Deepin forks.
 État du projet
 En développement.
